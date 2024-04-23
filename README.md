@@ -129,10 +129,6 @@ We need to build more test but we have a few to show how we can test the API end
 
 # Contributors ![Pokemon .gif](./data/sprites/pokemon/pokemon_shiny_680.gif)
 
-**Rob Farley**
-
-# Contributors
-
 Rob Farley                  | Shadi Shwiyat
 -------------------------- | -------------------------
 ![Rob](./pictures/rob.jpg) | ![Shadi](./pictures/shadi.jpg)
